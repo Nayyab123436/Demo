@@ -31,6 +31,6 @@ git status likhny sy hmmari file ya foldar ka status show ho ga k kia halat ha i
 <br>
 =>git add fileName used to add the file means file staged ho jati ha 
 <br>
-git add . likhny sy sari file akhati staged ho jati hain.
+=>git add . likhny sy sari file akhati staged ho jati hain.
 <br>
-git commit -m "some message" 
+=>git commit -m "some message" it is the record of changes
