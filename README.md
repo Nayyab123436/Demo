@@ -1,2 +1,4 @@
 # Demo
-trying to learn github
+Trying to learn github.
+This is my 3rd repository.
+
